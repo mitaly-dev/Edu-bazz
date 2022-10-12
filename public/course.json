@@ -1,0 +1,62 @@
+[
+    {
+      "id": "6342cc4f2a47f8d7448daa33",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSowm6B4643C_GBjwFNtZYuqiEJFQwPw57wqQ&usqp=CAU",
+      "title": "programming for everybody (getting started with python)",
+      "price": 29.99,
+      "rating": 3,
+      "category": "computer science",
+      "hours": 90,
+      "instructor":"Ed Sheeran"
+    },
+    {
+      "id": "6342cc4fa742f9fbb638d324",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYMGklHJVXh7yQ9iuLWa4qHgelZ2oIPo9HQw&usqp=CAU",
+      "title": "Photography masterclass : A completed course to photography",
+      "price": 55.23,
+      "rating": 5,
+      "category": "photography",
+      "hours": 80,
+      "instructor":"Taylor Swift"
+    },
+    {
+      "id": "6342cc4fad19444c2f7d6c69",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVWtA6qtgZ6I3d5AHQ3ytPcoNLQR0ls-Wp5A&usqp=CAU",
+      "title": "web development (getting started with javascript)",
+      "price": 35.99,
+      "rating":4,
+      "category": "computer science",
+      "hours": 100,
+      "instructor":"Dua Lipa"
+    },
+    {
+      "id": "6342cc4f41c54b4d1e41eba9",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWV9NZkiclP52WflFZeDW97Tfevsvs2PTKBw&usqp=CAU",
+      "title":  "graphyic design (phototshop,illustrator)",
+      "price": 46.67,
+      "rating": 4,
+      "category": "desing",
+      "hours": 140,
+      "instructor":"Adele"
+    },
+    {
+      "id": "6342cc4f05a9eeacd789ce4a",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkU4HvXH-ZGJ1NFuBkeBrv3Tp0cPfGrnPWyQ&usqp=CAU",
+      "title": "Project management principles and practices",
+      "price": 34.24,
+      "rating": 3,
+      "category": "computer science",
+      "hours": 90,
+      "instructor":"Ariana Grande"
+    },
+    {
+      "id": "6342cc4f431ff6e6aaf5b288",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY5J6WoY2KSDrLCykIQi61yTQDpFsSYxYu-g&usqp=CAU",
+      "title": "Degital marketing",
+      "price": 24.75,
+      "rating": 4,
+      "category": "computer science",
+      "hours": 100,
+      "instructor":"Billie Eilish"
+    }
+  ]
